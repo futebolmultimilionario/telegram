@@ -1,1 +1,1 @@
-telegram: python -m
+web: python main.py
